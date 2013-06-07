@@ -1,4 +1,4 @@
-package gov.dol.doldata.util;
+package gov.data.util;
 
 
 import java.io.IOException;

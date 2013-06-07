@@ -1,4 +1,4 @@
-package gov.dol.doldata.util;
+package gov.data.util;
 
 public class NoMoreTransportsException extends Exception {
     public NoMoreTransportsException(String s) {

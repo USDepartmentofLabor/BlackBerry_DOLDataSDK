@@ -1,24 +1,25 @@
-package gov.dol.doldata.api;
+package gov.data.api;
 
-public class DOLDataContext {
+public class GOVDataContext {
 	private String apiKey;
 	private String apiSecret;
 	private String apiHost;
 	private String apiURI;
-	
+
 	/**
 	 * @param apiKey
 	 * @param apiSecret
 	 * @param apiHost
 	 * @param apiURI
 	 */
-	public DOLDataContext(String apiKey, String apiSecret, String apiHost,
+	public GOVDataContext(String apiKey, String apiSecret, String apiHost,
 			String apiURI) {
 		super();
 		this.apiKey = apiKey;
 		this.apiSecret = apiSecret;
 		this.apiHost = apiHost;
 		this.apiURI = apiURI;
+	
 	}
 	
 	/**
@@ -69,6 +70,6 @@ public class DOLDataContext {
 	public void setApiURI(String apiURI) {
 		this.apiURI = apiURI;
 	}
-	
+
 	
 }
