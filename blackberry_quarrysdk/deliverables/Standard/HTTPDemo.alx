@@ -1,0 +1,31 @@
+<loader version="1.0">
+	<application id="HTTPDemo">
+		<name >
+			HTTP Demo
+		</name>
+		<description >
+			
+		</description>
+		<version >
+			0.9
+		</version>
+		<vendor >
+			Research In Motion Ltd.
+		</vendor>
+		<copyright >
+			Copyright (c) 2015 Research In Motion Ltd.
+		</copyright>
+		<fileset Java="1.55" _blackberryVersion="[7.1.0)">
+			<directory >
+				7.1.0
+			</directory>
+			<files >
+				HTTPDemo.cod
+
+			</files>
+
+		</fileset>
+
+	</application>
+
+</loader>

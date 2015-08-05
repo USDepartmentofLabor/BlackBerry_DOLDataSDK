@@ -1,0 +1,10 @@
+MIDlet-Name: HTTPDemo
+MIDlet-Version: 0.9
+MIDlet-Vendor: Research In Motion Ltd.
+MIDlet-Jar-URL: HTTPDemo.jar
+MIDlet-Jar-Size: 0
+MicroEdition-Profile: MIDP-2.0
+MicroEdition-Configuration: CLDC-1.1
+MIDlet-1: HTTP Demo,img/httpdemo_jde.png,
+RIM-MIDlet-Flags-1: 0
+
