@@ -1,8 +1,8 @@
 
-Blackberry-Sample-App
+Blackberry-Sample-App for 9900 series
 =====
 
-Sample app and documentation for the Blackberry Federal SDK using Quarry API.
+Sample app and documentation for the Blackberry 9900 series Federal SDK using Quarry API.
 
 Requirements
 -----------
